@@ -3034,7 +3034,17 @@ textarea.form-control-lg {
   background-color: #a682b7;
   border-color: #a682b7;
 }
+
 .btn-primary:hover {
+  color: #fff;
+  background-color: #16a085;
+  border-color: #15967d;
+}
+.whatsapp-btn{
+  background-color: #25D366;
+  color: #fff;
+}
+.whatsapp-btn:hover{
   color: #fff;
   background-color: #16a085;
   border-color: #15967d;
@@ -11314,15 +11324,12 @@ html {
   align-items: center;
 }
 
-.whatsapp-btn{
-  display: inline-block;
-  padding:16px;
-  border-radius: 8px;
-  background-color: #25D366;
-  color: #fff;
-  text-decoration: none;
-  font-family: sans-serif;
-  font-size: 16px;
+.contact-btns {
+  margin: 1.25rem 0 1.5rem;
+  width: 100%;
+  display: flex;
+  justify-content:center;
+  align-items:initial;
 }
 
 .divider-custom {
