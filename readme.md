@@ -1,8 +1,8 @@
-<h2># Portfolio_Igor</h2>
+# Portfolio_Igor
 
-<h3>Projeto de portfolio desenvolvido sob encomenda pelo cliente Igor.</h3>
+Projeto de portfolio desenvolvido sob encomenda pelo cliente Igor.
 
-tecnologias usadas: HTML, CSS e Javascript.
+###Tecnologias usadas: HTML, CSS e Javascript.
 
 Escopo do projeto:
   Site simples de portfolio contendo os itens: 
