@@ -16,5 +16,8 @@ Projeto de portfolio desenvolvido sob encomenda pelo cliente Igor.
     -> O site deverá ser responsivo, leve e intuitivo.
     -> Paleta de cores fornecida pelo cliente.
     
+    
+  #### Você pode visualizar o site [clicando aqui](https://remoguima.github.io/Portfolio_Igor/)
+  
 Obs. Dados pessoais do cliente, como foto de perfil, informações de contato e links de redes sociais foram removidos posteriormente para preservar a privacidade do mesmo.
 
